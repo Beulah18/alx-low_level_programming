@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * Comments
+ * Return:0 Always(Succes)
  */
 int main(void)
 {
