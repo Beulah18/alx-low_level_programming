@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S $CFILE -masm=intel -o ${CFILE: :-2}".s" 
+gcc -s $CFILE -masm=intel -o ${CFILE: :-2}".s" 
