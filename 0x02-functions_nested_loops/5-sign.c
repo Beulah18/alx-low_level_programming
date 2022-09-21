@@ -2,7 +2,7 @@
 /**
  * print_sign - Entry point
  * @n: the number to be checked
- * Returns: returns 1 if > 0, 0 if == 0, and -1 if < 0
+ * Return:1 if > 0, 0 if == 0, and -1 if < 0
  */
 int print_sign(int n)
 {
