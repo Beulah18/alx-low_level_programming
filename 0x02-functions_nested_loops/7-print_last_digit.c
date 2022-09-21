@@ -5,7 +5,7 @@
  * @num: the number whose last digit is gotten
  * Return:An integer
  */
-int _print_last_digit(int num)
+int print_last_digit(int num)
 {
 	int lastdigit;
 	if (num == INT_MIN)
