@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - Entry point
- *
+ *@c: the character to be checked
  * Return:1 else 0
  */
 int _islower(int c)
