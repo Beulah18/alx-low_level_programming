@@ -8,6 +8,7 @@
 int print_last_digit(int num)
 {
 	int lastdigit;
+
 	if (num == INT_MIN)
 		num += 1000;
 	if (num < 0)
