@@ -4,7 +4,7 @@
  *
  * Return:0
  */
-int main (void)
+int main(void)
 {
 	long int i, j, k, next;
 
