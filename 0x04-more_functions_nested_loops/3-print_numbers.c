@@ -2,6 +2,7 @@
 
 /**
  * print_numbers - prints the numbers 0 to 9
+ *
  * Return: returns nothing
  */
 
